@@ -40,12 +40,12 @@ body{
 
 .container{
   display: flex;
-  width: 1920px;
+  width: 100vw;
 }
 .left_content {
     position: relative;
     background-color:black;
-    width: 500px;
+    width: 20%;
     min-height: 650px;
     color: white;
     left: 0;
@@ -273,7 +273,7 @@ bottom: 0px;
 .noi-dungabout{width:  20% ;
 height: 300px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body{
 	line-height: 1.5;
 	font-family: 'Poppins', sans-serif;
@@ -355,4 +355,4 @@ ul{
 .footer-col .social-links a:hover{
 	color: #24262b;
 	background-color: #ffffff;
-}
+} */
